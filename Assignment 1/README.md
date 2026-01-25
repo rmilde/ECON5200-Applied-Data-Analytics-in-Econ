@@ -37,8 +37,8 @@ Headline inflation measures mask important distributional effects. For students,
 ---
 
 ## Repository Structure
-├── Econ_5200_Assignment_1.ipynb # Data collection, index construction, and analysis
-├── README.md # Project overview and findings
+-  Econ_5200_Assignment_1.ipynb (Data collection, index construction, and analysis)
+- README.md (Project overview and findings)
 
 ## Key Skills Demonstrated
 - Economic index construction (Laspeyres methodology)
