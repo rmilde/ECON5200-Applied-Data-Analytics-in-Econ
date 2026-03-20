@@ -4,7 +4,7 @@
 To rigorously diagnose the bias-variance tradeoff in a financial forecasting context by quantifying the out-of-sample instability of a high-capacity polynomial regression model using K-Fold cross-validation.
 
 ## Methodology
-- Collected and structured quarterly revenue data for NVIDIA spanning 2024–2026  
+- Simulated quarterly revenue data for NVIDIA spanning 2024–2026  
 - Engineered a nonlinear feature space using a 7th-degree polynomial expansion to intentionally increase model flexibility  
 - Estimated a baseline Ordinary Least Squares (OLS) regression on the expanded feature set to minimize in-sample error  
 - Evaluated model performance using K-Fold Cross-Validation to obtain a robust estimate of out-of-sample Mean Squared Error (MSE)  
