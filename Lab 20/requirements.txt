@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+econml
+doubleml
+scipy
+statmodels.api
